@@ -12,7 +12,7 @@ const projects = [
     id: 2,
     title: 'Jeu de réalité virtuelle',
     description:
-      'Jeu vidéo en réalité virtuelle développé avec Unreal Engine. Projet d\'équipe réalisé en une semaine dans le cadre de la découverte de la VR.Le jeu "Clean Up FamilyX" est une simulation de nettoyage de bunker. Conception, modélisation et programmation.',
+      'Jeu vidéo en réalité virtuelle développé avec Unreal Engine. Projet d\'équipe réalisé en une semaine dans le cadre de la découverte de la VR.Le jeu "Clean Up FamilyX" est une simulation de nettoyage de bunker.',
     image: '/img/projets/rv.png',
     },
   {
@@ -26,14 +26,14 @@ const projects = [
   {
     id: 4,
     title: 'Analyse d’images',
-    description: 'Projet d\'analyse de données spatiales FIT/FITS en imagerie astronomique, ce projet réalisé en binôme en python avec la bibliothèque PyQt, consiste à développer et optimiser grâce au multithreading une application de traitement d\'images astronomiques. L\'application permet grâce à l\'intervention de l\'API Skivew de télécharger les données d\'un astre et de les traiter pour offrir une visualisation claire et détaillée de celui- ci.',
+    description: 'Projet d\'analyse de données spatiales FIT/FITS en imagerie astronomique, ce projet réalisé en binôme en python avec la bibliothèque PyQt, consiste à développer et optimiser grâce au multithreading une application de traitement d\'images astronomiques. L\'application permet grâce à l\'intervention de l\'API Skyview de télécharger les données d\'un astre et de les traiter pour offrir une visualisation claire et détaillée de celui- ci.',
     image: '/img/projets/astro.jpg',
     link: 'https://github.com/Aurelienxx/Image-Astronomique',
   },
   {
     id: 5,
-    title: 'Flagle',
-    description: "Application mobile inspirée du jeu Flagle, développée en Flutter. Ce projet à été réalisé en équipe sur une période de 3 semaines. L\'application, comme son homologue, propose aux utilisateurs de deviner un pays à partir de certaines de ses caractéristiques (drapeau, capitale, population...) grâce à l'intégration de l'API REST Countries.",
+    title: 'Flagdle',
+    description: "Application mobile inspirée du jeu Flagdle, développée en Flutter. Ce projet a été réalisé en équipe sur une période de 3 semaines. L\'application, comme son homologue, propose aux utilisateurs de deviner un pays à partir de certaines de ses caractéristiques (drapeau, capitale, population...) grâce à l'intégration de l'API REST Countries.",
     image: '/img/projets/flagle.png',
     link: 'https://github.com/MatthieuPinceel/daltons',
   }
