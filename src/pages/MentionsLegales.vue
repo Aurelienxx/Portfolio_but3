@@ -4,7 +4,7 @@
       <h1>Mentions légales</h1>
 
       <h2>Éditeur / Hébergeur</h2>
-      <p>Hébergeur : Edwyn Piquet</p>
+      <p>Hébergeur : Netlify</p>
 
       <h2>Réalisation</h2>
       <p>Site réalisé par l'auteur du site.</p>

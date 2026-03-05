@@ -11,13 +11,13 @@ const projects = [
   },
   {
     title: "Analyse d'images",
-    description: 'Projet d\'analyse de données spatiales FIT/FITS en imagerie astronomique, ce projet réalisé en binôme en python avec le framework PyQt, consiste à développer et optimiser grâce au multithreading une application de traitement d\'images astronomiques. L\'application permet grâce à l\'intervention de l\'API Skivew de télécharger les données d\'un astre et de les traiter pour offrir une visualisation claire et détaillée de celui- ci.',
+    description: 'Projet d\'analyse de données spatiales FIT/FITS en imagerie astronomique, ce projet réalisé en binôme en python avec la bibliothèque PyQt, consiste à développer et optimiser grâce au multithreading une application de traitement d\'images astronomiques. L\'application permet grâce à l\'intervention de l\'API Skivew de télécharger les données d\'un astre et de les traiter pour offrir une visualisation claire et détaillée de celui- ci.',
     image: "/img/projets/astro.jpg",
     link: "https://github.com/Aurelienxx/Image-Astronomique"
   },
   {
     title: "Jeu de la vie — Version Qt",
-    description: 'Inspiré du projet de John Conway et de son célèbre automate cellulaire, ce projet consiste à implémenter le jeu de la vie en utilisant le framework Qt en C++. Le jeu de la vie est un automate cellulaire qui simule l\'évolution d\'une population de cellules sur une grille en fonction de règles simples. Ce projet implique la gestion des règles du jeu et la création d\'une interface utilisateur leurs permettre de visualiser et d\'interagir avec le jeu.',
+    description: 'Inspiré du projet de John Conway et de son célèbre automate cellulaire, ce projet consiste à implémenter le jeu de la vie en utilisant la bibliothèque Qt en C++. Le jeu de la vie est un automate cellulaire qui simule l\'évolution d\'une population de cellules sur une grille en fonction de règles simples. Ce projet implique la gestion des règles du jeu et la création d\'une interface utilisateur leurs permettre de visualiser et d\'interagir avec le jeu.',
 
     image: "/img/projets/jeu_vie.png",
     link: "https://github.com/Aurelienxx/Jeu-de-la-vie"
